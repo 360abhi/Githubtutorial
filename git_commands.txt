@@ -1,0 +1,17 @@
+Working --(git add) --> Staging ---(git commit) --> Repository
+
+1) git intt
+2) git status
+3) git add <filename> or .add (for all files)
+4) git commit -m "message"
+5) git config --global user.name "userename"
+6) git config --global user.email "email"
+7) git.log
+8) git checkout <hash>
+9) git checkout master
+10) git branch
+11) git branch <branchname>
+12) git checkout -b <branchname>
+13) get checkout <newbranch>
+14) git merge rootbranch 
+15 ) use .gitignore files 
